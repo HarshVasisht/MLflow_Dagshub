@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/53914ffdd78e403593b635db66be708d/artifacts
+end_time: 1690295590067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53914ffdd78e403593b635db66be708d
+run_name: skillful-turtle-703
+run_uuid: 53914ffdd78e403593b635db66be708d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690295587217
+status: 3
+tags: []
+user_id: abc
