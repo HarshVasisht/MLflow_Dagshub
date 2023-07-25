@@ -1,0 +1,44 @@
+site_name: MLflow and DAGShub
+nav:
+    - Home: index.md
+    - MLflow: mlflow.md
+    - DAGsHub: dagshub.md
+
+# Repository
+repo_name: HarshVasisht/MLflow_Dagshub
+repo_url: https://github.com/HarshVasisht/MLflow_Dagshub
+
+theme:
+    name: material
+    nav_style: dark
+    palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: 
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: 
+      accent: lime   
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/HarshVasisht/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/HarshVasisht
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/HarshVasisht
+    - icon: fontawesome/brands/google
+      link: https://www.harsh.ai.in
+
+  
+plugins:
+  - search
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/HarshVasisht/"  target="_blank" rel="noopener">Harsh Vasisht</a>
