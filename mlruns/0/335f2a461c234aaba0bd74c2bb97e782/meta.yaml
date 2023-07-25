@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/335f2a461c234aaba0bd74c2bb97e782/artifacts
+end_time: 1690297334598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 335f2a461c234aaba0bd74c2bb97e782
+run_name: spiffy-cub-244
+run_uuid: 335f2a461c234aaba0bd74c2bb97e782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690297330564
+status: 3
+tags: []
+user_id: ASUS

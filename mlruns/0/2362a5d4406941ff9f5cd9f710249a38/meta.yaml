@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/2362a5d4406941ff9f5cd9f710249a38/artifacts
+end_time: 1690297542155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2362a5d4406941ff9f5cd9f710249a38
+run_name: respected-swan-720
+run_uuid: 2362a5d4406941ff9f5cd9f710249a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690297537733
+status: 3
+tags: []
+user_id: ASUS
